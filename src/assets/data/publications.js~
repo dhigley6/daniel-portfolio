@@ -1,4 +1,19 @@
 const publications = [
+    {
+	title: 'Spin-current-mediated rapid magnon localization and coalescence after ultrafast optical pumping of ferrimagnetic alloys',
+	authorPosition: 13,
+	authors: `E. Iacocca, T.-M. Liu, A. H. Reid, Z. Fu, S. Ruta, P. W. Granitzka, E. Jal, S. Bonetti, A. X. Gray, C. E. Graves,
+	R. Kukreja, Z. Chen, D. J. Higley, T. Chase, L. Le Guyader, K. Hirsch, H. Ohldag, W. F. Schlotter, G. L. Dakovski,
+	G. Coslovich, M. C. Hoffman, S. Carron, A. Tsukamoto, A. Kirilyuk, A. V. Kimel, Th. Rasing, J. Stöhr, R. F. L. Evans,
+	T. Ostler, R. W. Chantrell, M. A. Hoefer, T. J. Silva, H. A. Dürr`,
+	journal: 'Nature Communications',
+	article: '1756',
+	volume: '10',
+	year: '2019',
+	status: 'Published',
+	abstract: `Sub-picosecond magnetisation manipulation via femtosecond optical pumping has attracted wide attention ever since its original discovery in 1996. However, the spatial evolution of the magnetisation is not yet well understood, in part due to the difficulty in experimentally probing such rapid dynamics. Here, we find evidence of a universal rapid magnetic order recovery in ferrimagnets with perpendicular magnetic anisotropy via nonlinear magnon processes. We identify magnon localisation and coalescence processes, whereby localised magnetic textures nucleate and subsequently interact and grow in accordance with a power law formalism. A hydrodynamic representation of the numerical simulations indicates that the appearance of noncollinear magnetisation via optical pumping establishes exchange-mediated spin currents with an equivalent 100% spin polarised charge current density of 107 A cm−2. Such large spin currents precipitate rapid recovery of magnetic order after optical pumping. The magnon processes discussed here provide new insights for the stabilization of desired meta-stable states.`,
+	link: 'https://www.nature.com/articles/s41467-019-09577-0',
+    },
   {
     title: 'Ultrafast self-induced X-ray transparency and loss of magnetic diffraction',
     authorPosition: 2,
