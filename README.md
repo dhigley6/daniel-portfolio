@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # daniel-portfolio
 
 ## Project setup
-=======
 # Academic Portfolio Template
 This repo is a template for an academic portfolio. I noticed that a lot of academic portfolios are basic HTML, and of
 course not everyone can code their own custom portfolio. So I decided to code an academic portfolio site template that
@@ -344,7 +342,6 @@ git push -f origin gh-pages
 ```
 
 # Advanced npm Scripts
->>>>>>> upstream/master
 ```
 npm install
 ```
