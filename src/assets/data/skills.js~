@@ -1,37 +1,36 @@
 const skills = [
   {
     name: 'Python',
-      examples: ['Scikit-Learn', 'Numpy', 'Tensorflow', 'Scipy', 'Pandas', 'Matplotlib'],
+    examples: ['Numpy', 'Scipy', 'Pandas', 'Matplotlib'],
     icon: 'fab fa-python',
     image: '',
   },
   {
-    name: 'Technical Writing',
-      examples: ['Technical Reports', 'Research Proposals', 'Collaborative Writing'],
+    name: 'Scientific Writing',
+    examples: ['Experimental proposals', 'Collaborative Writing'],
     icon: 'fas fa-file-alt',
     image: '',
   },
   {
-    name: 'Statistical Data Analysis',
-      examples: ['Solving Inverse Problems', 'Computational Imaging'],
+    name: 'Signal Processing',
+    examples: ['Analysis of Optical Data'],
     icon: 'fas fa-wave-square',
     image: '',
   },
   {
-    name: 'Industrial/Scientific Equipment',
+    name: 'Scientific Equipment',
     examples: [
-      'Ultra-High-Vacuum Equipment',
+      'Ultra-high-vacuum Equipment',
       'X-ray Free Electron Laser',
-      'Optics',
-	'Synchrotron Radiation',
-	'Nanofabrication'
+      'Tabletop Optical Lasers',
+      'Synchrotron Radiation',
     ],
     icon: 'fas fa-microscope',
     image: '',
   },
   {
     name: 'Public Speaking',
-    examples: ['Conference Presentations'],
+    examples: [],
     icon: 'fas fa-chalkboard-teacher',
     image: '',
   },
