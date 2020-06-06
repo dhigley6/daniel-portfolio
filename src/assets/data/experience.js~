@@ -1,32 +1,22 @@
 const experience = [
   {
-    start: '06-2018',
-    end: 'Current',
+    start: 'Current',
+    end: '',
     name: 'Research Associate',
     location: 'SLAC National Accelerator Laboratory',
-      description:
-      '- Applying regularized maximum likelihood estimation for signal deconvolution to enable a new X-ray technique. Created a Python package for others to use this technique (github.com/dhigley6/PAX2)'
-	  + '- Researching areas where machine learning could improve scientific capabilities at SLAC',
-	  + '- Performed computational investigations of interactions of materials with intense X-ray pulses'
-          + '- Analyzing Terabytes of heterogeneous scientific data'
-      + '- Designing, assembling and testing experimental apparatus (ultrahigh vacuum equipment, X-ray and electron
-instrumentation, optics, etc.)'
+    description: `- Working on developing advanced analysis techniques for extracting more information from X-ray spectroscopies
+     <br><br>- Data analysis for experiments on the effects of optical or X-ray excitation of materials`,
   },
   {
     start: '09-2012',
-    end: '04-2018',
+    end: '03-2018',
     name: 'Graduate Research Assistant',
     location: 'Stanford University',
-      description:
-              '-Led 2 and participated in ~20 experimental campaigns at the LCLS large-scale scientific facility with ~10 team
-members total for each experiment. Experiments focussed on ultrafast dynamics in materials'
-              + ' Used a high performance computing cluster to analyze many Terabytes of heterogenous scientific data. Data
-cleaning, normalization, sorting, visualization and comparison to scientific models'
-              + '- Performed computational investigations of femtosecond dynamics of materials.'
-              + '– Determined the speed and magnitude of high intensity X-ray-induced electronic and magnetic changes in a solid.<br><br>'
+    description:
+              '– Determined the speed and magnitude of high intensity X-ray-induced electronic and magnetic changes in a solid.<br><br>'
               + '– Observed signs of stimulated resonant inelastic X-ray scattering in a solid.<br><br>'
               + '– Improved the sensitivity of femtosecond X-ray magnetic circular dichroism absorption spec- troscopy such that studies which previously took weeks of data collection can now be completed in less than 20 minutes.<br><br>'
-              + '– Performed X-ray-based studies of ultrafast dynamics in magnetic materials of current technological interest.',
+              + '– Performed X-ray-based studies of ultrafast dynamics in magnetic materials of current techno- logical interest.',
   },
   {
     start: '03-2011',
@@ -34,7 +24,7 @@ cleaning, normalization, sorting, visualization and comparison to scientific mod
     name: 'Undergraduate Research Assistant',
     location: 'Randy Bartels Research Group, Colorado State University',
     description:
-              '– Improved and extended the optical imaging technique of Spatial Frequency Modulation for Imaging (SPIFI), a computational imaging method.<br><br>– Experimentally, numerically, and theoretically analyzed effects of diffraction, defocus, and other\n'
+              '– Improved and extended the optical imaging technique of Spatial Frequency Modulation for Imaging (SPIFI).<br><br>– Experimentally, numerically, and theoretically analyzed effects of diffraction, defocus, and other\n'
               + 'aberrations on SPIFI.',
   },
   {
