@@ -6,11 +6,10 @@ const experience = [
     location: 'SLAC National Accelerator Laboratory',
       description:
       '- Applying regularized maximum likelihood estimation for signal deconvolution to enable a new X-ray technique. Created a Python package for others to use this technique (github.com/dhigley6/PAX2)'
-	  + '- Researching areas where machine learning could improve scientific capabilities at SLAC',
-	  + '- Performed computational investigations of interactions of materials with intense X-ray pulses'
-          + '- Analyzing Terabytes of heterogeneous scientific data'
-      + '- Designing, assembling and testing experimental apparatus (ultrahigh vacuum equipment, X-ray and electron
-instrumentation, optics, etc.)'
+	   + '- Researching areas where machine learning could improve scientific capabilities at SLAC'
+	   + '- Performed computational investigations of interactions of materials with intense X-ray pulses'
+     + '- Analyzing Terabytes of heterogeneous scientific data'
+     + '- Designing, assembling and testing experimental apparatus (ultrahigh vacuum equipment, X-ray and electron instrumentation, optics, etc.)'
   },
   {
     start: '09-2012',
