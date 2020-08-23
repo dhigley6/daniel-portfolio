@@ -17,10 +17,8 @@ const experience = [
     name: 'Graduate Research Assistant',
     location: 'Stanford University',
       description:
-              '-Led 2 and participated in ~20 experimental campaigns at the LCLS large-scale scientific facility with ~10 team
-members total for each experiment. Experiments focussed on ultrafast dynamics in materials'
-              + ' Used a high performance computing cluster to analyze many Terabytes of heterogenous scientific data. Data
-cleaning, normalization, sorting, visualization and comparison to scientific models'
+              '-Led 2 and participated in ~20 experimental campaigns at the LCLS large-scale scientific facility with ~10 team members total for each experiment. Experiments focussed on ultrafast dynamics in materials'
+              + ' Used a high performance computing cluster to analyze many Terabytes of heterogenous scientific data. Data cleaning, normalization, sorting, visualization and comparison to scientific models'
               + '- Performed computational investigations of femtosecond dynamics of materials.'
               + '– Determined the speed and magnitude of high intensity X-ray-induced electronic and magnetic changes in a solid.<br><br>'
               + '– Observed signs of stimulated resonant inelastic X-ray scattering in a solid.<br><br>'
