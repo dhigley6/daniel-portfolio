@@ -1,7 +1,7 @@
 const name = 'Daniel J Higley';
 const greetingText = 'Hello, I\'m Daniel Higley.';
-const greetingSubtext = 'I\'m interested in Data Science and Applied Physics.';
-const about = `I'm a Researcher with experience applying machine learning in applied physics and more than ten years of data analytics experience.`;
+const greetingSubtext = 'I\'m interested in machine learning, applied physics, software and computers.';
+const about = `I'm a researcher with experience applying machine learning in applied physics and more than ten years of data analytics experience.`;
 
 const education = [
   {
