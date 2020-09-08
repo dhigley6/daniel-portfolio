@@ -1,4 +1,29 @@
 const publications = [
+  {
+    title: 'Using photoelectron spectroscopy to measure resonant inelastic X-ray scattering: A computational investigation',
+    authorPosition: 1,
+    authors: `D. J. Higley, H. Ogasawara, S. Zohar, G. L. Dakovski`,
+    journal: '',
+    article: '',
+    volume: '',
+    year: '2020',
+    status: 'Under Review',
+    abstract: `Resonant inelastic X-ray scattering (RIXS) has become an important scientific tool. 
+    Nonetheless, conventional high-resolution RIXS measurements (< 100 meV), especially in the soft 
+    x-ray range, require large and low-throughput grating spectrometers that limits measurement 
+    accuracy and simplicity. Here, we computationally investigate the performance of a different 
+    method for measuring RIXS, Photoelectron Spectrometry for Analysis of X-rays (PAX). This method 
+    transforms the X-ray measurement problem of RIXS to an electron measurement problem, enabling use 
+    of compact, high-throughput electron spectrometers. In PAX, X-rays to be measured are incident 
+    on a converter material and the energy distribution of the resultant photoelectrons, the PAX spectrum, 
+    is measured with an electron spectrometer. The incident X-ray spectrum is then estimated through a 
+    deconvolution algorithm that leverages concepts from machine learning. We investigate a few example 
+    PAX cases. Using the 3d levels of Ag as a converter material, and with 10 detected electrons, we 
+    accurately estimate features with 100s of meV width in a model RIXS spectrum. Using a sharp Fermi edge 
+    to encode RIXS spectra, we accurately distinguish 100 meV FWHM peaks separated by 45 meV with 10 
+    electrons detected that were photoemitted from within 0.4 eV of the Fermi level.`,
+    link: '',
+      },
     {
 	title: 'X-ray detection of ultrashort spin current pulses in synthetic antiferromagnets',
 	authorPosition: 8,
