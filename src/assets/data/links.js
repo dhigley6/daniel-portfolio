@@ -1,4 +1,4 @@
-const resumeLink = 'https://drive.google.com/file/d/1ud5GFOFFdZisOsCmoAqLO7XD98CahkcF/view?usp=sharing';
+const resumeLink = 'https://drive.google.com/file/d/17NPwvm6SXFogNFukLKflwV8fd8u4hG3V/view?usp=sharing';
 const linkedIn = 'https://www.linkedin.com/in/dhigley/';
 
 // Images
