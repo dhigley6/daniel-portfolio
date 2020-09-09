@@ -72,7 +72,7 @@ also evidence large depolarization effects due to hot electron dynamics, which a
 	link: 'https://aip.scitation.org/doi/10.1063/5.0006095',
     },
     {
-	TITLE: 'Ultrafast domain dilation induced by optical pumping in ferromagnetic CoFe/Ni multilayers',
+	title: 'Ultrafast domain dilation induced by optical pumping in ferromagnetic CoFe/Ni multilayers',
 	authorPosition: 7,
 	authors: `D. Zusin, E. Iacocca, L. Le Guyader, A. H. Reid, W. F. Schlotter, T.-M. Liu, D. J. Higley, P. M. Tengdin, S. K. K. Patel, A. Shabalin, N. Hua, S. B. Hrkac, H. T. Nembach, J. M. Shaw, S. A. Montoya, A. Blonsky, C. Gentry, M. A. Hoefer, M. M. Murnane, H. C. Kapteyn, E. E. Fullerton, O. Shpyrko, H. A. Dürr, T. J. Silva`,
 	journal: '',
