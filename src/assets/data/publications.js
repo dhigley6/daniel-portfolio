@@ -1,5 +1,30 @@
 const publications = [
   {
+    title: 'Ultrafast modification of the electronic structure of a correlated insulator',
+    authorPosition: 12,
+    authors: `O. Granas, I. Vaskivskyi, P. Thunstrom, S. Ghimire, R. Knut, J. Soderstrom, L. Kjellsson, 
+    D. Turenne, R. Engel, M. Beye, J. Lu, D. Higley, A. Reid, W. Schloter, G. Coslovich, M. Hoffmann,
+    G. Kolesov, C. Schuessler-Langheine, A. Styervoyedov, N. Tancogne-Dejean, M. Sentef, D. Reis,
+    A. Rubio, S. Parkin, O. Karis, J. Nordgren, J.-E. Rubensson, O. Eriksson`,
+    journal: '',
+    article: '',
+    volume: '',
+    year: '2020',
+    status: 'Under Review',
+    abstract: `Electronic materials properties are determined by the interplay of many competing factors. 
+    Electro-magnetic fields strong enough to rival atomic interactions can disturb the balance between 
+    kinematic effects due to electrons hopping between lattice sites and the Coulomb repulsion between 
+    electrons that limits the band formation 1,2. This allows for new insights into quantum phases, as 
+    well as the time-scales and energies involved in using quantum effects for possible applications 3-7. 
+    Here we show that 0.2 V/A ultrashort optical fields in the high harmonic generation regime 1 lead to 
+    a pronounced transient O-to-Ni charge transfer in NiO, a prototypical correlated electron insulator. 
+    Element-specific transient x-ray absorption spectroscopy detects a negligible change in electron 
+    correlations of Ni 3d-states. This behaviour is captured by time-dependent density functional theory 
+    and points to a speed limit for the dynamical screening of the Coulomb interaction taking place above 
+    our experimental 6.9 femtoseconds optical cycle.`,
+    link: '',
+  },
+  {
     title: 'Using photoelectron spectroscopy to measure resonant inelastic X-ray scattering: A computational investigation',
     authorPosition: 1,
     authors: `D. J. Higley, H. Ogasawara, S. Zohar, G. L. Dakovski`,
@@ -18,9 +43,9 @@ const publications = [
     on a converter material and the energy distribution of the resultant photoelectrons, the PAX spectrum, 
     is measured with an electron spectrometer. The incident X-ray spectrum is then estimated through a 
     deconvolution algorithm that leverages concepts from machine learning. We investigate a few example 
-    PAX cases. Using the 3d levels of Ag as a converter material, and with 10 detected electrons, we 
+    PAX cases. Using the 3d levels of Ag as a converter material, and with 10^5 detected electrons, we 
     accurately estimate features with 100s of meV width in a model RIXS spectrum. Using a sharp Fermi edge 
-    to encode RIXS spectra, we accurately distinguish 100 meV FWHM peaks separated by 45 meV with 10 
+    to encode RIXS spectra, we accurately distinguish 100 meV FWHM peaks separated by 45 meV with 10^7 
     electrons detected that were photoemitted from within 0.4 eV of the Fermi level.`,
     link: '',
       },
@@ -29,10 +54,10 @@ const publications = [
 	authorPosition: 8,
 	authors: `C. Stamm, C. Murer, M. S. Wörnle, Y. Acremann, R. Gort, S. Däster, A. H. Reid, D. J. Higley, S. F. Wandel, W. F. Schlotter, P. Gambardella`,
 	journal: 'Journal of Applied Physics',
-	article: '',
-	volume: '',
+	article: '127',
+	volume: '223902',
 	year: '2020',
-	status: 'Accepted',
+	status: 'Published',
 	abstract: `We explore the ultrafast generation of spin currents in magnetic multilayer samples by applying fs laser pulses
 to one layer and measuring the magnetic response in the other layer by element-resolved x-ray spectroscopy.
 In Ni(5 nm)/Ru(2 nm)/Fe(4 nm), the Ni and Fe magnetization directions couple antiferromagnetically due
@@ -44,7 +69,7 @@ angular momentum from the Ni into the Fe layer. Our results confirm that superdi
 plays a role in determining the sub-ps demagnetization dynamics of synthetic antiferromagnetic layers, but
 also evidence large depolarization effects due to hot electron dynamics, which are independent of the relative
 	alignment of the magnetization in Ni and Fe.`,
-	link: '',
+	link: 'https://aip.scitation.org/doi/10.1063/5.0006095',
     },
     {
 	TITLE: 'Ultrafast domain dilation induced by optical pumping in ferromagnetic CoFe/Ni multilayers',
@@ -284,6 +309,24 @@ also evidence large depolarization effects due to hot electron dynamics, which a
     link: 'https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5b02743',
   },
   {
+    title: 'THz light source at SLAC FACET user facility',
+    authorPosition: 5,
+    authors: 'Z. Wu, A. S. Fisher, M. C. Hoffmann, S. Bonetti, D. Higley, H. Durr',
+    journal: 'International conference on infrared, millimeter, and Terahertz waves',
+    article: '1',
+    volume: '39',
+    year: '2014',
+    status: 'Published',
+    abstract: `The Facility for Accelerator science and Experimental Tests (FACET) at SLAC National 
+    Accelerator Laboratory provides a 23-GeV high charge, sub-picosecond bunched electron beam that is 
+    ideal for pulsed THz light generation in the few-THz range. Pulsed THz lights based on coherent 
+    transition radiation have been demonstrated at FACET, with high peak electric field and high pulse 
+    energy. The intense TeraWatt level FACET infrared laser enables THz pump-probe capabilities for 
+    nonlinear experiments. This paper presents developments and results of this THz source, and ongoing 
+    THz programs utilizing the light and facilities.`,
+    link: 'https://ieeexplore.ieee.org/document/6956281',
+  },
+  {
     title: 'Two-dimensional spatial frequency-modulated imaging through parallel acquisition of line images',
     authorPosition: 1,
     authors: 'D. J. Higley, D. G. Winters, and R. A. Bartels',
@@ -304,7 +347,7 @@ also evidence large depolarization effects due to hot electron dynamics, which a
     title: 'Theory of diffraction effects in spatial frequency-modulated imaging',
     authorPosition: 1,
     authors: 'D. J. Higley, D. G. Winters, G. L. Futia, and R. A. Bartels',
-    journal: 'Journal of the Optical Society of America',
+    journal: 'Journal of the Optical Society of America A',
     article: '2579',
     volume: '29',
     year: '2012',
