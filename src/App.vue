@@ -130,7 +130,7 @@
       <v-footer color="primary" dark app height="45" class="px-4">
         <v-row class="fill-height" align="baseline" no-gutters>
           <v-col cols="4">
-            <span class="white--text body-2">&copy;2019 — Nicole Kowtko</span>
+            <span class="white--text body-2">&copy;2019-2020 — Nicole Kowtko, Daniel Higley</span>
           </v-col>
           <v-col class="text-right" cols="8" >
             <v-btn
