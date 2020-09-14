@@ -1,8 +1,20 @@
 const skills = [
   {
     name: 'Python',
-      examples: ['Scikit-Learn', 'Numpy', 'Tensorflow', 'Scipy', 'Pandas', 'Matplotlib'],
+      examples: ['Scikit-Learn', 'Numpy', 'LightGBM', 'Tensorflow', 'Scipy', 'Pandas', 'Matplotlib'],
     icon: 'fab fa-python',
+    image: '',
+  },
+  {
+    name: 'SQL',
+    examples: [],
+    icon: '',
+    image: '',
+  },
+  {
+    name: 'Machine Learning',
+    examples: ['Boosting', 'Random Forests', 'Deep Learning', 'Linear Regression', 'Logistic Regression'],
+    icon: '',
     image: '',
   },
   {
