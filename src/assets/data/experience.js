@@ -1,27 +1,17 @@
 const experience = [
   {
-    start: '06-2018',
-    end: 'Current',
-    name: 'Research Associate',
-    location: 'SLAC National Accelerator Laboratory',
-      description:
-      '- Developed and validated a regularized maximum likelihood estimation algorithm for signal deconvolution to simplify and increase the sensitivity of a common X-ray spectroscopy (report: arxiv.org/abs/2006.10914 code: github.com/dhigley6/PAX2). The algorithm is implemented as a custom scikit-learn estimator and uses cross validation to select the degree of regularization.<br><br>'
-	   + '- Researched areas where machine learning could improve scientific capabilities at SLAC<br><br>'
-	   + '- Performed computational investigations of interactions of materials with intense X-ray pulses<br><br>'
-     + '- Design, assembled and tested soft ultrahigh vacuum X-ray and electron experimental apparatus<br><br>'
-     + '- Performed X-ray experiments on materials<br><br>'
-  },
-  {
     start: '09-2012',
-    end: '04-2018',
-    name: 'Graduate Research Assistant',
+    end: '07-2020',
+    name: 'Applied Physics Researcher',
     location: 'Stanford University',
       description:
-              'My PhD research focussed on the development of new X-ray characterization techniques using LCLS, a large-scale X-ray experimentation facility.<br><br>'
-              + '-Led three large-scale experiments (10 people per team) and analyzed the Terabytes of heterogenous scientific data each experiment produced. One experiment demonstrated how to increase the efficiency by more than a million times of a common X-ray characterization technique.<br><br>'
-              + '-Developed instrumentation and distributed data analysis scripts that were critical to improving the resolution by 10x and speed by 100x of an X-ray material characterization technique. This technology has been used by several different teams resulting in at least 6 publications.<br><br>'
+              'My research focussed on the development of new X-ray characterization techniques using LCLS, a large-scale X-ray experimentation facility. Due to the nature of this work, I spent the majority of my time analyzing and visualizing data with Python as well as communicating the results to stakeholders.<br><br>'
+              + '-Developed and validated a regularized maximum likelihood estimation algorithm for signal deconvolution to simplify and increase the sensitivity of a common X-ray spectroscopy (report: arxiv.org/abs/2006.10914 code: github.com/dhigley6/PAX2). The algorithm is implemented as a custom scikit-learn estimator and uses cross validation to select the degree of regularization.<br><br>'
+              + '-Led three large-scale experiments (10 people per team) and analyzed the Terabytes of image and time series data each experiment produced. One experiment demonstrated how to increase the efficiency by more than a million times of a common X-ray characterization technique.<br><br>'
+              + '-Developed software and instrumentation enabling high resolution and accuracy femtosecond time- and polarization-resolved X-ray absorption spectroscopy. The software produces and shows diagnostic information on actively accumulating data using a distributed computing system. This technology has since been used by several different teams, resulting in publications in top journals.<br><br>'
               + '-Rapidly analyzed data for more than 18 several-day-long experiments at large-scale scientific facilities (analysis deadlines ranged from an hour to a day after data collection). Experiments focussed on understanding ultrafast dynamics in materials that could be used in better computers and resulted in more than 10 publications as a co-author.<br><br>'
               + '-Conducted numerical simulations of femtosecond material dynamics.<br><br>'
+              + '-Design, assembled and tested soft ultrahigh vacuum X-ray and electron experimental apparatus<br><br>'
   },
   {
     start: '10-2009',
